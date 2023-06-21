@@ -25,7 +25,7 @@ Programa en consola para una tienda de ropa. Permite al Gestor de Compra y Venta
 *Nota:* Este código asume que el Gestionador ingresará valores numéricos válidos y no se han implementado controles adicionales para manejar situaciones excepcionales.
 <h2>Codigo Java</h2>
 
-![Imagen del Proyecto](Images/CodigoJava.png)
+![Imagen del Proyecto](Captura de pantalla 2023-06-20 090219.png)
 
 <h2>Diagrama de Flujo</h2>
 
