@@ -1,12 +1,12 @@
 <h1>Proyecto boleteria</h1>
 
-Programa en consola para una tienda de ropa. Permite al Gestor de Compra y Venta seleccionar y comprar prendas de vestir disponibles en el inventario. Al finalizar, genera una factura con el nombre del comprador, la fecha y el total a pagar.
+Programa en consola que  Permite la Venta de boletas seleccionar y  disponibles en el stock . Al finalizar, genera un codigo con el nombre del  usuario , la fecha y el total a pagar.
 
 <h4>El programa sigue el siguiente flujo:</h4>
 
-1. Solicita al Gestionador que ingrese su nombre.
+1. ingrese su nombre.
 
-2. Muestra una lista de prendas disponibles con su respectiva marca, stock y precio.
+2. Muestra una lista de boletas  disponibles, stock y precio.
 
 3. Pregunta al Gestionador qué prenda desea comprar y cuántas unidades.
 
