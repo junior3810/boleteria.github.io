@@ -30,3 +30,4 @@ Programa en consola que  Permite la Venta de boletas seleccionar y  disponibles 
 <h2>Caso de Uso</h2>
 
 ![Imagen del Proyecto](Images/CasoUso.png)
+![pseint](https://github.com/junior3810/boleteria.github.io/assets/68470732/386df1c4-688c-41f4-bdf6-df8cc90858eb)
