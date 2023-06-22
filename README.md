@@ -18,15 +18,15 @@ Programa en consola que  Permite la Venta de boletas seleccionar y  disponibles 
 *Nota:* Este código asume que el comprador  ingresará valores numéricos válidos y no se han implementado controles adicionales para manejar situaciones excepcionales.
 <h2>Codigo Java</h2>
 
-![Imagen del Proyecto](Imagen/Captura de pantalla 2023-06-20 090219.png)
+![proyecto](Imagen/Captura de pantalla 2023-06-20 090219.png)
 
 <h2>Diagrama de Flujo</h2>
 
-![Imagen del Proyecto](Images/pseint.png)
+![proyecto](Images/pseint.png)
 
 <h2>Jira</h2>
 
-![Imagen del Proyecto](Images/Jira.png)
+![proyecto](Images/Jira.png)
 
 <h2>Caso de Uso</h2>
 
