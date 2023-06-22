@@ -8,21 +8,14 @@ Programa en consola que  Permite la Venta de boletas seleccionar y  disponibles 
 
 2. Muestra una lista de boletas  disponibles, stock y precio.
 
-3. Pregunta al Gestionador qué prenda desea comprar y cuántas unidades.
+3. ingresar al evento que desea comprar y cuántas unidades.
 
-4. Verifica si hay suficiente stock y si la cantidad ingresada es válida.
+4. Verifica  si la cantidad ingresada es válida.
 
-5. Actualiza el stock si la compra es válida y muestra un mensaje de confirmación.
+5. Actualiza  y muestra un mensaje de confirmación.
 
-6. Pregunta al Gestionador si desea comprar otra prenda.
 
-7. Calcula el total a pagar sumando el precio de las prendas compradas.
-
-8. Repite los pasos 3-7 hasta que el Gestionador no desee comprar más prendas.
-
-9. Muestra la factura final con el nombre del Gestionador, la fecha y el total a pagar.
-
-*Nota:* Este código asume que el Gestionador ingresará valores numéricos válidos y no se han implementado controles adicionales para manejar situaciones excepcionales.
+*Nota:* Este código asume que el comprador  ingresará valores numéricos válidos y no se han implementado controles adicionales para manejar situaciones excepcionales.
 <h2>Codigo Java</h2>
 
 ![Imagen del Proyecto](Captura de pantalla 2023-06-20 090219.png)
