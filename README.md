@@ -16,7 +16,13 @@ Programa en consola que  Permite la Venta de boletas seleccionar y  disponibles 
 
 
 *Nota:* Este código asume que el comprador  ingresará valores numéricos válidos y no se han implementado controles adicionales para manejar situaciones excepcionales.
-<h2>Codigo Java</h2>
+<h2>Ejercicio Base</h2>
+Como programador ha sido elegido para hacer una pagina para la compra de boletas para eventos como conciertos 
+deportes,etc
+Aclaraciones
+ >la aplicacion solo debe completar la compra de los clientes.
+ > aceptar los metodos de pago.
+ 
 
 
 <h2>Diagrama de Flujo</h2>
