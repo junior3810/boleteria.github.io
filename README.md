@@ -25,10 +25,6 @@ Aclaraciones
  
 
 
-<h2>Diagrama de Flujo</h2>
-
-![pseint](https://github.com/junior3810/boleteria.github.io/assets/68470732/386df1c4-688c-41f4-bdf6-df8cc90858eb)
-
 <h2>Jira</h2>
 
 ![Captura de pantalla 2023-06-20 095908](https://github.com/junior3810/boleteria.github.io/assets/68470732/876fcd64-c80a-4155-88f1-2ef2a8d1ed8e)
@@ -36,6 +32,14 @@ Aclaraciones
 <h2>Caso de Uso</h2>
 
 ![Captura de pantalla 2023-06-20 092917](https://github.com/junior3810/boleteria.github.io/assets/68470732/62437fda-b4a5-4874-a92c-331ef964dfa0)
+
+
+
+<h2>Diagrama de Flujo</h2>
+
+![pseint](https://github.com/junior3810/boleteria.github.io/assets/68470732/386df1c4-688c-41f4-bdf6-df8cc90858eb)
+
+
 
 <h2>seudocodigo</h2>
 
