@@ -22,7 +22,7 @@ Programa en consola que  Permite la Venta de boletas seleccionar y  disponibles 
 
 <h2>Diagrama de Flujo</h2>
 
-![Imagen del Proyecto](Images/DiagramaFlujo.png)
+![Imagen del Proyecto](Images/pseint.png)
 
 <h2>Jira</h2>
 
