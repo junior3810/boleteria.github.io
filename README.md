@@ -1,4 +1,4 @@
-<h1>Proyecto boleteria</h1>
+<h1>Proyecto boleteria(No dejar sesiones abiertas ;)</h1>
 
 Programa en consola que  Permite la Venta de boletas seleccionar y  disponibles en el stock . Al finalizar, genera un codigo con el nombre del  usuario , la fecha y el total a pagar.
 
